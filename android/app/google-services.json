@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408681698192",
+    "project_id": "bsbmobile-e2497",
+    "storage_bucket": "bsbmobile-e2497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408681698192:android:f090d853d2431db03d9915",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408681698192-bvk7758s4qtasa8i5476eu0h5mtuugmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfTUMrPdSyLZ-pfGoigrOPk3nxMI6OWcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408681698192-bvk7758s4qtasa8i5476eu0h5mtuugmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
